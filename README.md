@@ -3,9 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Evelyn Vitória Caetano Maestre
+- Matricula: 898742
 
 ## Print da tela da página criada (Curriculum Vitae)
-
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![navegador](public/images/CapturaCurriculo.png)
